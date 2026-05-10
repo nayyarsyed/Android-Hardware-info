@@ -1,0 +1,129 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="150dp"
+    android:height="150dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200"
+    android:tint="?attr/colorControlNormal">
+  <group>
+    <!-- pins -->
+    <path
+        android:fillColor="#cbd5e1"
+        android:pathData="M48,24h12v12h-12z" />
+    <path
+        android:fillColor="#94a3b8"
+        android:pathData="M66,24h12v12h-12z" />
+    <path
+        android:fillColor="#cbd5e1"
+        android:pathData="M84,24h12v12h-12z" />
+    <path
+        android:fillColor="#94a3b8"
+        android:pathData="M102,24h12v12h-12z" />
+    <path
+        android:fillColor="#cbd5e1"
+        android:pathData="M120,24h12v12h-12z" />
+    <path
+        android:fillColor="#94a3b8"
+        android:pathData="M138,24h12v12h-12z" />
+    <path
+        android:fillColor="#cbd5e1"
+        android:pathData="M48,164h12v12h-12z" />
+    <path
+        android:fillColor="#94a3b8"
+        android:pathData="M66,164h12v12h-12z" />
+    <path
+        android:fillColor="#cbd5e1"
+        android:pathData="M84,164h12v12h-12z" />
+    <path
+        android:fillColor="#94a3b8"
+        android:pathData="M102,164h12v12h-12z" />
+    <path
+        android:fillColor="#cbd5e1"
+        android:pathData="M120,164h12v12h-12z" />
+    <path
+        android:fillColor="#94a3b8"
+        android:pathData="M138,164h12v12h-12z" />
+    <path
+        android:fillColor="#cbd5e1"
+        android:pathData="M24,48h12v12h-12z" />
+    <path
+        android:fillColor="#94a3b8"
+        android:pathData="M24,66h12v12h-12z" />
+    <path
+        android:fillColor="#cbd5e1"
+        android:pathData="M24,84h12v12h-12z" />
+    <path
+        android:fillColor="#94a3b8"
+        android:pathData="M24,102h12v12h-12z" />
+    <path
+        android:fillColor="#cbd5e1"
+        android:pathData="M24,120h12v12h-12z" />
+    <path
+        android:fillColor="#94a3b8"
+        android:pathData="M24,138h12v12h-12z" />
+    <path
+        android:fillColor="#cbd5e1"
+        android:pathData="M164,48h12v12h-12z" />
+    <path
+        android:fillColor="#94a3b8"
+        android:pathData="M164,66h12v12h-12z" />
+    <path
+        android:fillColor="#cbd5e1"
+        android:pathData="M164,84h12v12h-12z" />
+    <path
+        android:fillColor="#94a3b8"
+        android:pathData="M164,102h12v12h-12z" />
+    <path
+        android:fillColor="#cbd5e1"
+        android:pathData="M164,120h12v12h-12z" />
+    <path
+        android:fillColor="#94a3b8"
+        android:pathData="M164,138h12v12h-12z" />
+  </group>
+  <group>
+    <!-- chip body -->
+    <path
+        android:fillColor="#111827"
+        android:pathData="M36,36h128v128h-128z" />
+    <path
+        android:fillColor="#14b8a6"
+        android:pathData="M48,48h104v104h-104z" />
+    <path
+        android:fillColor="#0f766e"
+        android:pathData="M56,56h88v88h-88z" />
+    <!-- inner CPU core -->
+    <path
+        android:fillColor="#fc0808e8"
+        android:pathData="M68,68h64v64h-64z" />
+    <path
+        android:fillColor="#1e1b4b"
+        android:pathData="M76,76h48v48h-48z" />
+    <path
+        android:fillColor="#ee8b29ff"
+        android:pathData="M84,84h32v32h-32z" />
+    <!-- retro circuit highlights -->
+    <path
+        android:fillColor="#67e8f9"
+        android:pathData="M96,64h8v16h-8z" />
+    <path
+        android:fillColor="#67e8f9"
+        android:pathData="M96,120h8v16h-8z" />
+    <path
+        android:fillColor="#67e8f9"
+        android:pathData="M64,96h16v8h-16z" />
+    <path
+        android:fillColor="#67e8f9"
+        android:pathData="M120,96h16v8h-16z" />
+    <path
+        android:fillColor="#f472b6"
+        android:pathData="M64,64h8v8h-8z" />
+    <path
+        android:fillColor="#f472b6"
+        android:pathData="M128,64h8v8h-8z" />
+    <path
+        android:fillColor="#f472b6"
+        android:pathData="M64,128h8v8h-8z" />
+    <path
+        android:fillColor="#f472b6"
+        android:pathData="M128,128h8v8h-8z" />
+  </group>
+</vector>
