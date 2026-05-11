@@ -73,7 +73,6 @@ Battery info Page
 ### Steps
 1. Clone the repository:
    ```bash
-<<<<<<< HEAD
    git clone https://github.com/nayyarsyed/Android-Hardware-info.git
 =======
    git clone https://github.com/nayyarsyed/Android-Hardware-info.git
