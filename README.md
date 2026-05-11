@@ -5,7 +5,6 @@ A modern Android application built with **Jetpack Compose** that displays detail
 
 <img width="577" height="1065" alt="image" src="https://github.com/user-attachments/assets/036d7e9c-1cd1-4b10-b011-4eec1ed5d6b1" />
 
->>>>>>> 3cad21465c091664ea5d55354b2f3537f9f73672
 
 ## ✨ Features
 
@@ -30,7 +29,6 @@ A modern Android application built with **Jetpack Compose** that displays detail
   - Cyan (`#00FFFF`)
   - Yellow (`#FFFF00`)
   - Blue (`#0080FF`)
->>>>>>> 3cad21465c091664ea5d55354b2f3537f9f73672
 - Black background with CRT-inspired feel
 - Custom retro icons and typography
 
@@ -46,9 +44,7 @@ A modern Android application built with **Jetpack Compose** that displays detail
 
 ## 📱 Screenshots
 
-<<<<<<< HEAD
-*(Add screenshots here once available)*
-=======
+
 Main Screen 
 <img width="565" height="1121" alt="image" src="https://github.com/user-attachments/assets/d3611b26-7dad-4195-a7b7-ae85bd209a07" />
 
@@ -67,7 +63,6 @@ Battery info Page
 
 
 
->>>>>>> 3cad21465c091664ea5d55354b2f3537f9f73672
 
 ## 🚀 Installation
 
@@ -82,4 +77,3 @@ Battery info Page
    git clone https://github.com/nayyarsyed/Android-Hardware-info.git
 =======
    git clone https://github.com/nayyarsyed/Android-Hardware-info.git
->>>>>>> 3cad21465c091664ea5d55354b2f3537f9f73672
