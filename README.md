@@ -2,9 +2,7 @@
 
 A modern Android application built with **Jetpack Compose** that displays detailed hardware information about your device in a nostalgic **8-bit retro style**.
 
-<<<<<<< HEAD
-![App Banner](https://via.placeholder.com/800x400/000000/00FF00?text=8-BIT+HARDWARE+INFO) <!-- Replace with actual screenshot when available -->
-=======
+
 <img width="577" height="1065" alt="image" src="https://github.com/user-attachments/assets/036d7e9c-1cd1-4b10-b011-4eec1ed5d6b1" />
 
 >>>>>>> 3cad21465c091664ea5d55354b2f3537f9f73672
