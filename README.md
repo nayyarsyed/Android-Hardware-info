@@ -2,7 +2,8 @@
 
 A modern Android application built with **Jetpack Compose** that displays detailed hardware information about your device in a nostalgic **8-bit retro style**.
 
-![App Banner](https://via.placeholder.com/800x400/000000/00FF00?text=8-BIT+HARDWARE+INFO) <!-- Replace with actual screenshot when available -->
+<img width="577" height="1065" alt="image" src="https://github.com/user-attachments/assets/036d7e9c-1cd1-4b10-b011-4eec1ed5d6b1" />
+
 
 ## ✨ Features
 
@@ -36,7 +37,24 @@ A modern Android application built with **Jetpack Compose** that displays detail
 
 ## 📱 Screenshots
 
-*(Add screenshots here once available)*
+Main Screen 
+<img width="565" height="1121" alt="image" src="https://github.com/user-attachments/assets/d3611b26-7dad-4195-a7b7-ae85bd209a07" />
+
+Device info Page 
+
+<img width="608" height="1011" alt="image" src="https://github.com/user-attachments/assets/e862aad5-5c9f-4873-b679-f5c01380e422" />
+
+CPU Info and Ram Info Page ( Live updates ) 
+
+<img width="604" height="1006" alt="image" src="https://github.com/user-attachments/assets/5a6388c7-4d09-4bae-b671-74ab193f6a25" />
+
+Battery info Page 
+
+<img width="600" height="1044" alt="image" src="https://github.com/user-attachments/assets/4011ba09-0646-4580-b891-4fa689fd596d" />
+
+
+
+
 
 ## 🚀 Installation
 
