@@ -143,9 +143,7 @@ class CpuViewModel : ViewModel() {
                 val maxFreq = maxFreqFile.readText().trim().toFloat()
                 val curFreq = curFreqFile.readText().trim().toFloat()
                 if (maxFreq > 0) {
-                    var usage = (curFreq / maxFreq) * 100f
-                    // Add slight random variation to emulate actual load jitter since freq scaling is stair-stepped
-                    usage += (Math.random().toFloat() * 5f) - 2.5f 
+                    val usage = (curFreq / maxFreq) * 5f
                     return usage.coerceIn(0f, 100f)
                 }
             }

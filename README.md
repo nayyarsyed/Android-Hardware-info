@@ -2,12 +2,7 @@
 
 A modern Android application built with **Jetpack Compose** that displays detailed hardware information about your device in a nostalgic **8-bit retro style**.
 
-<<<<<<< HEAD
-![App Banner](https://via.placeholder.com/800x400/000000/00FF00?text=8-BIT+HARDWARE+INFO) <!-- Replace with actual screenshot when available -->
-=======
 <img width="577" height="1065" alt="image" src="https://github.com/user-attachments/assets/036d7e9c-1cd1-4b10-b011-4eec1ed5d6b1" />
-
->>>>>>> 3cad21465c091664ea5d55354b2f3537f9f73672
 
 ## ✨ Features
 
@@ -22,17 +17,10 @@ A modern Android application built with **Jetpack Compose** that displays detail
 ## 🎨 Design
 
 - Pure **8-bit retro aesthetic** with classic pixel colors:
-<<<<<<< HEAD
-    - Neon Green (`#00FF00`)
-    - Cyan (`#00FFFF`)
-    - Yellow (`#FFFF00`)
-    - Blue (`#0080FF`)
-=======
   - Neon Green (`#00FF00`)
   - Cyan (`#00FFFF`)
   - Yellow (`#FFFF00`)
   - Blue (`#0080FF`)
->>>>>>> 3cad21465c091664ea5d55354b2f3537f9f73672
 - Black background with CRT-inspired feel
 - Custom retro icons and typography
 
@@ -48,9 +36,6 @@ A modern Android application built with **Jetpack Compose** that displays detail
 
 ## 📱 Screenshots
 
-<<<<<<< HEAD
-*(Add screenshots here once available)*
-=======
 Main Screen 
 <img width="565" height="1121" alt="image" src="https://github.com/user-attachments/assets/d3611b26-7dad-4195-a7b7-ae85bd209a07" />
 
@@ -66,11 +51,6 @@ Battery info Page
 
 <img width="600" height="1044" alt="image" src="https://github.com/user-attachments/assets/4011ba09-0646-4580-b891-4fa689fd596d" />
 
-
-
-
->>>>>>> 3cad21465c091664ea5d55354b2f3537f9f73672
-
 ## 🚀 Installation
 
 ### Prerequisites
@@ -80,8 +60,5 @@ Battery info Page
 ### Steps
 1. Clone the repository:
    ```bash
-<<<<<<< HEAD
    git clone https://github.com/nayyarsyed/Android-Hardware-info.git
-=======
-   git clone https://github.com/nayyarsyed/Android-Hardware-info.git
->>>>>>> 3cad21465c091664ea5d55354b2f3537f9f73672
+   ```
